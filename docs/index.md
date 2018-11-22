@@ -2,4 +2,4 @@
 
 ## 网络
 
-#### [网络基础](network/index.md)
+#### [网络基础](network/basic.md)
